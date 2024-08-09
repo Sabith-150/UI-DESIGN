@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+}
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page{
+    width: 70%;
+    height: 90%;
+    background-color: rgb(68, 59, 59);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 90%;
+    height: 90%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+}
+
+.c1{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cc{
+    width: 70%;
+    height: 80%;
+    background-color: white;
+}
+
+.cc1{
+    width: 30%;
+    height: 10%;
+}
+
+.cc1 i{
+    font-size: 50px;
+}
+
+.cc2 h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cc2 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+    font-weight: lighter;
+}
+
+.btn{
+    background-color: rgb(50, 234, 50);
+    color: white;
+    border-radius: 15px;
+    border: 0;
+    width: 40%;
+    height: 13%;
+}
+
+.cc2{
+    width: 100%;
+    height: 60%;
+}
+
+.cc3{
+    width: 100%;
+    height: 25%;
+}
+
+.cc31{
+    width: 100%;
+    height: 40%;
+}
+
+.cc31 h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+     'Lucida Sans', Arial, sans-serif;
+     font-size: xx-large;
+}
+
+.cc32{
+    width: 55%;
+    height: 4%;
+    background-color: rgb(19, 41, 236);
+    border-radius: 10px;
+}
+
+.cc33{
+    width: 40%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cc3 i{
+    font-size: 35px;
+}
+
+.c2{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c2m{
+    width: 96%;
+    height: 96%;
+    border-radius: 20px;
+    background-image: url(/ui2/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.btm{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: end;
+}
+
+.bt{
+    width: 50%;
+    height: 80%;
+    background-color: white;
+    display: flex;
+    justify-content: end;
+    border-radius: 30px;
+}
+
+.btn2{
+    width: 80%;
+    height: 70%;
+    border-radius: 20px;
+    border: 0;
+    background-color: rgb(57, 65, 165);
+    color: white;
+    border-left: 20px;
+}
+
+.empty{
+    width: 100%;
+    height: 70%;
+    
+}
+
+.last{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bar{
+    width: 80%;
+    height: 50%;
+    background-color: white;
+    border-radius: 30%;
+}
+
+.pc{
+    width: 100%;
+    height: 100%;
+    border-radius: 30%;
+    border: 0;
+}
+
